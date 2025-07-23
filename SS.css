@@ -1,0 +1,18 @@
+body {
+       background-color:beige;
+}
+    
+table {
+      width:50%;
+      border-collapse:collapse;
+      border-color:black;
+} 
+th {
+background-color:green;
+}
+ .td1 {
+background-color:White;
+}
+ .td2 {
+background-color:grey;
+}
